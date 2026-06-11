@@ -2,7 +2,7 @@
 #include <vector>
 using namespace std;
 const int M = 1e9 + 7;
-
+ 
 /*
 vector<int> factorization(int n){
   vector<int> f;
